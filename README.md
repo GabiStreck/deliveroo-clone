@@ -13,13 +13,14 @@ Deliveroo Clone with React Native (Expo, Redux, Tailwind CSS, React Native Navig
 
 <!-- Screenshots -->
 <div>
-<img align="center" alt="React" width="180" src="![Screenshot_20230119-115856_Expo Go](https://user-images.githubusercontent.com/39699923/213689702-0a3a21f7-8a7a-48fa-9df5-2e87d9147d08.jpg)">
-<img align="center" alt="React" width="180" src="![Screenshot_20230119-120033_Expo Go](https://user-images.githubusercontent.com/39699923/213689992-68150e76-9f2b-4173-b9b6-5e4f48af712d.jpg)">
-
-![Screenshot_20230119-120059_Expo Go](https://user-images.githubusercontent.com/39699923/213690002-49096221-516d-4eb5-80a6-4160256cb2e8.jpg)
-![Screenshot_20230119-120428_Expo Go](https://user-images.githubusercontent.com/39699923/213690006-6bd81ccb-7d46-4c24-9d90-9bb81943937b.jpg)
-![Screenshot_20230119-120505_Expo Go](https://user-images.githubusercontent.com/39699923/213690007-ed952b4e-559e-471a-add5-2985f6b87218.jpg)
-![Screenshot_20230119-120522_Expo Go](https://user-images.githubusercontent.com/39699923/213690009-a39cc153-9586-419c-a932-66cd682f4131.jpg)
+https://user-images.githubusercontent.com/39699923/213691858-4b888f55-ee76-4872-a7ad-caf354140489.mp4
+  
+ ![1](https://user-images.githubusercontent.com/39699923/213691704-e5d8a6be-5b79-4d66-973e-0cd6a27608da.jpg)
+![2](https://user-images.githubusercontent.com/39699923/213691714-758d11d3-23ab-4f60-9c1b-f9b2a6c2ad34.jpg)
+![4](https://user-images.githubusercontent.com/39699923/213691763-413d4d2e-5f45-4c5c-9043-58a0b7b3078c.jpg)
+![5](https://user-images.githubusercontent.com/39699923/213691842-2deeb113-0579-4643-af0b-c4faa954258f.jpg)
+![6](https://user-images.githubusercontent.com/39699923/213691848-c65a6a39-2f35-4349-aed6-44f8469e7e5f.jpg)
+![7](https://user-images.githubusercontent.com/39699923/213691853-efd53005-f5dc-436e-9b7f-39078d46e229.jpg)
 </div>
 
 
