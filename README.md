@@ -13,8 +13,13 @@ Deliveroo Clone with React Native (Expo, Redux, Tailwind CSS, React Native Navig
 
 <!-- Screenshots -->
 <div>
-<img align="center" alt="React" width="180" src="https://user-images.githubusercontent.com/99184393/184466112-3d639a7d-e292-43f1-96ff-0d7506be7d5a.jpg">
 
+![Screenshot_20230119-115856_Expo Go](https://user-images.githubusercontent.com/39699923/213689702-0a3a21f7-8a7a-48fa-9df5-2e87d9147d08.jpg)
+![Screenshot_20230119-120033_Expo Go](https://user-images.githubusercontent.com/39699923/213689992-68150e76-9f2b-4173-b9b6-5e4f48af712d.jpg)
+![Screenshot_20230119-120059_Expo Go](https://user-images.githubusercontent.com/39699923/213690002-49096221-516d-4eb5-80a6-4160256cb2e8.jpg)
+![Screenshot_20230119-120428_Expo Go](https://user-images.githubusercontent.com/39699923/213690006-6bd81ccb-7d46-4c24-9d90-9bb81943937b.jpg)
+![Screenshot_20230119-120505_Expo Go](https://user-images.githubusercontent.com/39699923/213690007-ed952b4e-559e-471a-add5-2985f6b87218.jpg)
+![Screenshot_20230119-120522_Expo Go](https://user-images.githubusercontent.com/39699923/213690009-a39cc153-9586-419c-a932-66cd682f4131.jpg)
 </div>
 
 
