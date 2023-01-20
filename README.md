@@ -1,2 +1,88 @@
-# deliveroo-clone
-Deliveroo app clone created with React Native and Sanity.io
+<div>
+<img src="https://user-images.githubusercontent.com/99184393/196014260-dfc68631-1abb-4635-ac6d-787ad0805dcd.png" alt="logo" width="200" height="auto" />
+
+# Deliveroo Clone
+
+<p>
+
+Deliveroo Clone with React Native (Expo, Redux, Tailwind CSS, React Native Navigation and Sanity.io)
+
+</p>
+
+## :camera: Screenshots
+
+<!-- Screenshots -->
+<div>
+<img align="center" alt="React" width="180" src="https://user-images.githubusercontent.com/99184393/184466112-3d639a7d-e292-43f1-96ff-0d7506be7d5a.jpg">
+
+</div>
+
+
+## 🛠️ Tech
+
+<h4>Client</h4>
+<ul>
+  <li><a href="https://#/">Javascript</a></li>
+
+  <li><a href="https://docs.expo.dev/workflow/expo-cli">Expo</a></li>
+
+  <li><a href="https://redux-toolkit.js.org/">Redux</a></li>
+
+  <li><a href="https://reactnative.dev">React Native</a></li>
+
+  <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+</ul>
+
+
+<h4>CMS Headless</h4>
+<ul>
+  <li><a href="https://www.sanity.io">Sanity</a></li>
+</ul>
+
+
+##  ⚙️ Getting Started
+
+###  :gear: Installation
+
+- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
+- Sign up for a Sanity account <a href='https://www.sanity.io'>HERE</a>
+- Install Expo in your computer
+```bash
+ npm install --global expo-cli
+ ```
+
+
+### 📖 How To Use
+<!-- How To Use-->
+```bash
+
+# Clone this repository
+
+$ https://github.com/GabiStreck/deliveroo-clone.git
+
+# Go into the repository
+
+$ cd Deliveroo-Clone
+
+# Install dependencies
+
+$ npm install
+$ npx expo start -c --tunnel
+# A QR code will appear on the console that you must scan with expo mobile
+
+# Install dependencies for sanity
+# Open a new terminal in the root of the project
+
+$ cd sanity
+
+$ npm install
+
+# Run the project (In source directory run)
+
+$ npm start
+
+```
+  
+Download Expo in your app store and scan the QR code that appears on the client terminal:
+For Android:
+https://play.google.com/store/apps/details?id=host.exp.exponent&hl=es_AR
