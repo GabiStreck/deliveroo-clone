@@ -1,5 +1,5 @@
 <div>
-<img src="https://user-images.githubusercontent.com/99184393/196014260-dfc68631-1abb-4635-ac6d-787ad0805dcd.png" alt="logo" width="200" height="auto" />
+<img src="https://user-images.githubusercontent.com/39699923/218328273-bf8eeea7-9ba3-41d3-b9bc-983902156083.png" width="170" />
 
 # Deliveroo Clone
 
